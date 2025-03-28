@@ -1,0 +1,83 @@
+[
+    {
+        "name" : "Chat",
+        "cost" : 0,
+        "uniques" : [
+            "Unsellable",
+            "Unbuildable",
+            "Limited to [1] per Civilization",
+            "Remove [Chat] [in all cities] <upon turn end>",
+            "Triggers a [Chat] event"
+        ]
+    },
+    {
+        "name" : "Good game!",
+        "cost" : 0,
+        "uniques" : [
+            "Unsellable",
+            "Unbuildable",
+            "Triggers a global alert upon completion",
+            "Remove [Good game!] [in all cities]"
+        ]
+    },
+    {
+        "name" : "Well played!",
+        "cost" : 0,
+        "uniques" : [
+            "Unsellable",
+            "Unbuildable",
+            "Triggers a global alert upon completion",
+            "Remove [Well played!] [in all cities]"
+        ]
+    },
+    {
+        "name" : "Good luck!",
+        "cost" : 0,
+        "uniques" : [
+            "Unsellable",
+            "Unbuildable",
+            "Triggers a global alert upon completion",
+            "Remove [Good luck!] [in all cities]"
+        ]
+    },
+    {
+        "name" : "Oops!",
+        "cost" : 0,
+        "uniques" : [
+            "Unsellable",
+            "Unbuildable",
+            "Triggers a global alert upon completion",
+            "Remove [Oops!] [in all cities]"
+        ]
+    },
+    {
+        "name" : "Thanks!",
+        "cost" : 0,
+        "uniques" : [
+            "Unsellable",
+            "Unbuildable",
+            "Triggers a global alert upon completion",
+            "Remove [Thanks!] [in all cities]"
+        ]
+    },
+    {
+        "name" : "Wow!",
+        "cost" : 0,
+        "uniques" : [
+            "Unsellable",
+            "Unbuildable",
+            "Triggers a global alert upon completion",
+            "Remove [Wow!] [in all cities]"
+        ]
+    },
+    {
+        "name" : "I was so close noo!",
+        "cost" : 0,
+        "uniques" : [
+            "Unsellable",
+            "Unbuildable",
+            "Triggers a global alert upon completion",
+            "Remove [I was so close noo!] [in all cities]"
+        ]
+    }
+]

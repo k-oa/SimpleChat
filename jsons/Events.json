@@ -1,0 +1,50 @@
+[
+    {
+        "name" : "Chat",
+        "text" : "Select the message that will be sent to all players",
+        "choices" : [
+            {
+                "text" : "Good game!",
+                "uniques" : [
+                    "Gain a free [Good game!] [in capital] <hidden from users>"
+                ]
+            },
+            {
+                "text" : "Well played!",
+                "uniques" : [
+                    "Gain a free [Well played!] [in capital] <hidden from users>"
+                ]
+            },
+            {
+                "text" : "Good luck!",
+                "uniques" : [
+                    "Gain a free [Good luck!] [in capital] <hidden from users>"
+                ]
+            },
+            {
+                "text" : "Oops!",
+                "uniques" : [
+                    "Gain a free [Oops!] [in capital] <hidden from users>"
+                ]
+            },
+            {
+                "text" : "Thanks!",
+                "uniques" : [
+                    "Gain a free [Thanks!] [in capital] <hidden from users>"
+                ]
+            },
+            {
+                "text" : "Wow!",
+                "uniques" : [
+                    "Gain a free [Wow!] [in capital] <hidden from users>"
+                ]
+            },
+            {
+                "text" : "I was so close noo!",
+                "uniques" : [
+                    "Gain a free [I was so close noo!] [in capital] <hidden from users>"
+                ]
+            }
+        ]
+    }
+]
